@@ -1,1 +1,1 @@
-# MySQL- Percona XtraDB Clustering-in-CentOS-7
+# MySQL- NDB and Percona XtraDB Clustering-in-CentOS-7
